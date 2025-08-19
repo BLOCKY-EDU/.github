@@ -1,3 +1,6 @@
+![프로젝트 로고]([https://github.com/username/repo/assets/1234567/logo.png](https://ibb.co/JRPpYtvH))
+
+
 # Blocky
 
 Blocky는 Blockly와 React를 활용한 **웹 기반 교육 플랫폼**입니다.  
