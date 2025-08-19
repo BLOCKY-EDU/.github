@@ -1,4 +1,4 @@
-![프로젝트 로고]([https://github.com/username/repo/assets/1234567/logo.png](https://ibb.co/JRPpYtvH))
+![프로젝트 로고](https://ibb.co/JRPpYtvH)
 
 
 # Blocky
