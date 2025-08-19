@@ -1,4 +1,4 @@
-![프로젝트 로고](https://ibb.co/JRPpYtvH)
+<img src="[이미지_URL](https://ibb.co/JRPpYtvH)" alt="프로젝트 로고" width="300"/>
 
 
 # Blocky
