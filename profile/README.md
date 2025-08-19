@@ -30,28 +30,6 @@ Blocky는 Blockly와 React를 활용한 **웹 기반 교육 플랫폼**입니다
 
 ## 👥 팀원
 
-<p align="center">
-  <a href="https://github.com/hana03030">
-    <img src="https://github.com/hana03030.png" width="100px;" alt="이주현"/><br/>
-    <sub><b>이주현</b></sub><br/>
-    <sub>@hana03030</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/chunys">
-    <img src="https://github.com/chunys.png" width="100px;" alt="천유석"/><br/>
-    <sub><b>천유석</b></sub><br/>
-    <sub>@chunys</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ye-eun-min201">
-    <img src="https://github.com/ye-eun-min201.png" width="100px;" alt="임예은"/><br/>
-    <sub><b>임예은</b></sub><br/>
-    <sub>@ye-eun-min201</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mimolulu">
-    <img src="https://github.com/mimolulu.png" width="100px;" alt="성유빈"/><br/>
-    <sub><b>성유빈</b></sub><br/>
-    <sub>@mimolulu</sub>
-  </a>
-</p>
+| <a href="https://github.com/hana03030"><img src="https://github.com/hana03030.png" width="100px;" alt="이주현"/></a> | <a href="https://github.com/chunys"><img src="https://github.com/chunys.png" width="100px;" alt="천유석"/></a> | <a href="https://github.com/ye-eun-min201"><img src="https://github.com/ye-eun-min201.png" width="100px;" alt="임예은"/></a> | <a href="https://github.com/mimolulu"><img src="https://github.com/mimolulu.png" width="100px;" alt="성유빈"/></a> |
+|:---:|:---:|:---:|:---:|
+| 이주현 <br/>[@hana03030](https://github.com/hana03030) | 천유석 <br/>[@chunys](https://github.com/chunys) | 임예은 <br/>[@ye-eun-min201](https://github.com/ye-eun-min201) | 성유빈 <br/>[@mimolulu](https://github.com/mimolulu) |
