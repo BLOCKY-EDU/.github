@@ -1,4 +1,4 @@
-<img src="https://ibb.co/JRPpYtvH" alt="프로젝트 로고" width="300"/>
+<img src="https://i.ibb.co/TB50Q24t/blocky-logo.png" alt="Blocky 로고" width="200"/>
 
 
 # Blocky
