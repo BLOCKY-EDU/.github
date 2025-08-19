@@ -26,3 +26,10 @@ Blocky는 Blockly와 React를 활용한 **웹 기반 교육 플랫폼**입니다
 - **Frontend**: React, React-Router, Blockly
 - **Language**: JavaScript
 - **스타일링**: CSS (Custom, Parallax Tilt)
+
+
+## 👥 팀원
+
+| [![이주현](https://github.com/hana03030.png)](https://github.com/hana03030) | [![천유석](https://github.com/chunys.png)](https://github.com/chunys) | [![임예은](https://github.com/ye-eun-min201.png)](https://github.com/ye-eun-min201) | [![성유빈](https://github.com/mimolulu.png)](https://github.com/mimolulu) |
+|:---:|:---:|:---:|:---:|
+| 이주현 | 천유석 | 임예은 | 성유빈 |
