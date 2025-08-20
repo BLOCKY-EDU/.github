@@ -12,9 +12,6 @@
 
 ## 📽️ 소개 영상
 👉 [시연 영상 보러가기](https://www.youtube.com/...)  
-또는 아래 GIF를 참고하세요  
-
-<img src="demo.gif" width="600"/>
 
 
 ## 🚀 주요 기능
