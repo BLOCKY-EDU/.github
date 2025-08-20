@@ -35,19 +35,16 @@
 - **개발 도구**: GitHub, VS Code, IntelliJ
 - **배포 환경**: AWS S3 (정적 호스팅), EC2 확장 고려
 
+<img width="269" height="137" alt="image" src="https://github.com/user-attachments/assets/450318b7-c70d-4b94-bf8c-400aac3cbf34" />
+
 
 ## 📦 설치 & 실행
-```bash
-# 레포 클론
-git clone https://github.com/BLOCKY-EDU/blocky.git
-cd blocky
 
 # 패키지 설치
 npm install
 
 # 로컬 실행
 npm start
-```
 
 접속 주소: [Blocky 데모]([http://blocky-web.s3-website.ap-northeast-2.amazonaws.com/](http://blocky-web.s3-website.ap-northeast-2.amazonaws.com/))  
 
