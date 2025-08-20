@@ -5,9 +5,6 @@
 > Blockly와 React를 활용한 **웹 기반 프론트엔드 교육 플랫폼**  
 > 블록을 조합하며 HTML/CSS를 직관적으로 배우고, 곧바로 코드로 확인할 수 있습니다.
 
-[![GitHub stars](https://img.shields.io/github/stars/BLOCKY-EDU/blocky?style=flat-square)](https://github.com/BLOCKY-EDU/blocky/stargazers)
-[![GitHub license](https://img.shields.io/github/license/BLOCKY-EDU/blocky)](./LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/BLOCKY-EDU/blocky)](https://github.com/BLOCKY-EDU/blocky/issues)
 
 
 ## 📽️ 소개 영상
@@ -29,11 +26,12 @@
 
 
 ## 🛠️ 기술 스택
-- **Frontend**: React, Blockly, React-Router
-- **Backend**: SpringBoot, MySQL (추후 확장)
+- **Frontend**: React (UI 구성), Blockly (블록 코딩 UI)
+- **Backend**: SpringBoot, MySQL
 - **Language**: JavaScript (ES6+), JSX
-- **개발 도구**: GitHub, VS Code, IntelliJ
-- **배포 환경**: AWS S3 (정적 호스팅), EC2 확장 고려
+- **개발 도구**: GitHub (버전 관리), Visual Studio Code (IDE), IntelliJ iDEA
+- **배포 환경**: 브라우저 실행(Web 기반 플랫폼), S3 (프론트엔드 배포), AWS EC2 (서버 확장 고려)
+
 
 <img width="269" height="137" alt="image" src="https://github.com/user-attachments/assets/450318b7-c70d-4b94-bf8c-400aac3cbf34" />
 
