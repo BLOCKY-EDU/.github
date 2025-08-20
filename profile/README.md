@@ -1,8 +1,5 @@
 <img src="https://i.ibb.co/TB50Q24t/blocky-logo.png" alt="Blocky 로고" width="400"/>
 
-
-<img src="https://i.ibb.co/TB50Q24t/blocky-logo.png" alt="Blocky 로고" width="400"/>
-
 # Blocky
 
 > Blockly와 React를 활용한 **웹 기반 프론트엔드 교육 플랫폼**  
