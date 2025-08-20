@@ -33,7 +33,7 @@
 - **배포 환경**: 브라우저 실행(Web 기반 플랫폼), S3 (프론트엔드 배포), AWS EC2 (서버 확장 고려)
 
 
-<img width="269" height="137" alt="image" src="https://github.com/user-attachments/assets/450318b7-c70d-4b94-bf8c-400aac3cbf34" />
+<img width="538" height="274" alt="image" src="https://github.com/user-attachments/assets/450318b7-c70d-4b94-bf8c-400aac3cbf34" />
 
 
 ## 📦 설치 & 실행
