@@ -78,7 +78,7 @@ BLOCKY는 **Blockly.js**를 확장하여 UI/스타일/레이아웃 전용 블록
 
 ## 👥 팀원
 
-| <a href="https://github.com/hana03030"><img src="https://github.com/hana03030.png" width="120px;" alt="이주현"/></a> | <a href="https://github.com/chunys"><img src="https://github.com/chunys.png" width="120px;" alt="천유석"/></a> | <a href="https://github.com/ye-eun-min201"><img src="https://github.com/ye-eun-min201.png" width="120px;" alt="임예은"/></a> | <a href="https://github.com/mimolulu"><img src="https://github.com/mimolulu.png" width="120px;" alt="성유빈"/></a> |
+| <a href="https://github.com/hana03030"><img src="https://github.com/hana03030.png" width="140px;" alt="이주현"/></a> | <a href="https://github.com/chunys"><img src="https://github.com/chunys.png" width="140px;" alt="천유석"/></a> | <a href="https://github.com/ye-eun-min201"><img src="https://github.com/ye-eun-min201.png" width="140px;" alt="임예은"/></a> | <a href="https://github.com/mimolulu"><img src="https://github.com/mimolulu.png" width="140px;" alt="성유빈"/></a> |
 |:---:|:---:|:---:|:---:|
 | 이주현 <br/>[@hana03030](https://github.com/hana03030) | 천유석 <br/>[@chunys](https://github.com/chunys) | 임예은 <br/>[@ye-eun-min201](https://github.com/ye-eun-min201) | 성유빈 <br/>[@mimolulu](https://github.com/mimolulu) |
 
