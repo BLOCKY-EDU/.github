@@ -58,7 +58,8 @@ BLOCKY는 **Blockly.js**를 확장하여 UI/스타일/레이아웃 전용 블록
 - 자유 모드: 제약 없는 실습, 창의적 블록 조합
 - 미션 모드: 문제 제시 → 블록 조립 → 자동 채점 및 피드백 제공
 
-<img width="2972" height="2243" alt="전체 렌더링 구조" src="https://github.com/user-attachments/assets/6f718c48-c221-4aa9-9430-719681e9991b" />
+<img width="2861" height="2243" alt="image" src="https://github.com/user-attachments/assets/095437f9-2d2f-483b-af70-ea1e2b3e03b2" />
+
 
 
 ## 🌟 기대 효과 및 활용
