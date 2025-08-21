@@ -50,7 +50,7 @@ npm start
 
 
 ## 🏗️ 시스템 아키텍처 & 학습 모드
-BLOCKY는 **Blockly.js**를 확장하여 UI/스타일/레이아웃 전용 블록을 직접 설계했습니다【12†source】.  
+BLOCKY는 **Blockly.js**를 확장하여 UI/스타일/레이아웃 전용 블록을 직접 설계했습니다.  
 <img width="2197" height="1117" alt="전체 구조도" src="https://github.com/user-attachments/assets/b940a5ca-1d4b-41a0-b12e-67bb5aaeb892" />
 
 
