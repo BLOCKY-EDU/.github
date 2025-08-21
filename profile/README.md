@@ -8,7 +8,7 @@
 
 
 ## 📽️ 소개 영상
-👉 [시연 영상 보러가기](https://www.youtube.com/...)  
+👉 [시연 영상 보러가기](https://youtu.be/M5pYUKHvOOw)  
 
 
 ## 📖 프로젝트 소개
